@@ -3,7 +3,7 @@
 !git clone https://github.com/Megvii-BaseDetection/YOLOX.git
 %cd YOLOX
 
-# 安装基本依赖（不要运行 setup.py）
+# 安装基本依赖
 !pip install -r requirements.txt
 !pip install cython pycocotools
 
