@@ -1,5 +1,5 @@
 # 7. 读取、修改并保存配置文件
-fixed_code = """# encoding: utf-8
+fixed_code = """
 import os
 from yolox.exp import Exp as MyExp
 
